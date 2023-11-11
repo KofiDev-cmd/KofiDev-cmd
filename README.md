@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KofiDev-cmd
-- 👀 I’m interested in ... Web Dev
+- 👀 I’m interested in ... Web Dev, Python, Java, Data, Security
 - 🌱 I’m currently learning ... Web Dev
 - 💞️ I’m looking to collaborate on ... Web Dev
 - 📫 How to reach me ... kofiansah161@gmail.com
